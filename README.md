@@ -1,4 +1,4 @@
-# 模型使用指北
+# RetinaNet-Pytorch
 
 ## Describing
 
