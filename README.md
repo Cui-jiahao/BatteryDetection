@@ -26,11 +26,11 @@ pip install requests
 
 ```
 
-## Eval测试
+## Testing
 
-1) 下载的训练模型存放到weights文件夹中，百度网盘链接:
+1) Download the training model and store it in the weights folder,the link address is:
 
-2) 执行下列命令
+2) Please run the script:
 ```
 python eval.py -B battery_txt -A annotation -I image
 
